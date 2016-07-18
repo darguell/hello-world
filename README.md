@@ -1,2 +1,4 @@
 # hello-world
-My HW repo!
+My Hello World repo!
+
+Here's some interesting things:  Seriosuly, very interesting.
